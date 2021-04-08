@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github URL](https://github.com/IanChestersonLim/3-column-preview-card-component-main)
+- Live Site URL: [Live Site URL](https://bunny-3-column-preview-card-component.netlify.app)
 
 ## My process
 
@@ -41,10 +41,6 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 I've learned to use mix-blend-mode: screen to blend button text with the background.
 
