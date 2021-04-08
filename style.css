@@ -1,0 +1,42 @@
+@media screen and (min-width: 1440px) {
+    .container {
+		width: 50%;
+		margin: auto;
+		display: flex;
+		flex-direction: row;
+	}
+}
+
+.card {
+	padding: 3rem;
+	color: hsl(0, 0%, 95%);
+	font-size: 15px;
+}
+
+.title {
+	font-size: 2rem;
+	color: hsl(0, 0%, 95%);
+	font-family: Big Shoulders Display;
+	font-weight: 700;
+}
+
+.description {
+	line-height: 1.5rem;
+	font-family: Lexend Deca;
+	font-weight: 400;
+	color: hsla(0, 0%, 100%, 0.75);
+}
+
+button {
+    mix-blend-mode: screen;
+	background-color: hsl(0, 0%, 95%);
+	border: 1px solid hsl(0, 0%, 95%);
+	border-radius: 25px;
+	padding: 1rem 2rem;
+}
+
+button:hover {
+    background-color: transparent;
+    color: hsl(0, 0%, 95%);
+    border: 1px solid hsl(0, 0%, 95%);;
+}
